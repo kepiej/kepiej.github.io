@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pieter Jan Kerstens</title>
+    <link>https://kepiej.github.io/post/</link>
+    <description>Recent content in Posts on Pieter Jan Kerstens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016-2024 Pieter Jan Kerstens</copyright>
+    <lastBuildDate>Sat, 14 Jan 2017 12:03:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://kepiej.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All publications</title>
+      <link>https://kepiej.github.io/post/allpublications/</link>
+      <pubDate>Sat, 14 Jan 2017 12:03:00 +0100</pubDate>
+      
+      <guid>https://kepiej.github.io/post/allpublications/</guid>
+      <description>Peer reviewed articles  [1]  Peter Bogetoft and Pieter&amp;nbsp;Jan Kerstens. Distinguishing useful and wasteful slack. Operations Research, 72(4):1556--1573, 2024. [&amp;nbsp;bib&amp;nbsp;]   [2]  Laurens Cherchye, Bram De&amp;nbsp;Rock, Bart Dierynck, Pieter&amp;nbsp;Jan Kerstens, and Filip Roodhooft. A dea-based approach to customer value analysis. European Journal of Operational Research, 308(3):1319--1331, 2023. [&amp;nbsp;bib&amp;nbsp;]   [3]  Frederic Ang and Pieter&amp;nbsp;Jan Kerstens. Robust nonparametric analysis of dynamic profits, prices and productivity: An application to french meat-processing firms.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Pieter Jan Kerstens</title>
+    <link>https://kepiej.github.io/home/</link>
+    <description>Recent content in Homes on Pieter Jan Kerstens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016-2024 Pieter Jan Kerstens</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kepiej.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://kepiej.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kepiej.github.io/home/about/</guid>
+      <description>Biography I am a researcher in the Data &amp;amp; Analytics Competence center at the Flemish Institute for Technological Research (VITO).
+Previously, I was a postdoctoral researcher at the department of Food and Resource Economics (IFRO) at the University of Copenhagen (Denmark) where I worked on the Tech4Effect project. In particular I worked on developing an interactive efficiency portal for forestry operations using machine level data that enables the various decision makers (e.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://kepiej.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kepiej.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work in progress</title>
+      <link>https://kepiej.github.io/home/wip/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kepiej.github.io/home/wip/</guid>
+      <description> Working papers:  &amp;ldquo;Classification of Geological Borehole Descriptions Using a Domain Adapted Large Language Model&amp;rdquo; (with Hossein Ghorbanfekr, Katrijn Dirix), revision requested by Applied Computing and Geosciences  Work in progress:  &amp;ldquo;Visualizing mix similarity and scale: identification of group technologies and tracking of frontier firms&amp;rdquo; (with Mette Asmild)  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://kepiej.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kepiej.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://kepiej.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kepiej.github.io/home/teaching/</guid>
+      <description>Guest lecturer in the master courses &amp;ldquo;Contracts and cooperatives&amp;rdquo; and &amp;ldquo;Economic efficiency and benchmarking&amp;rdquo; at the Department of Food and Resource Economics at the University of Copenhagen during the academic years 2017-2018 and 2018-2019. Daily advisor for 3 individual master thesis students and 1 group of 5 master thesis students at the Department of Economics at KU Leuven. Teaching assistant for the module Seminarie methoden voor economische analyse in the 2nd semester at the Department of Economics at KU Leuven during the academic year 2016-2017.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kepiej.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kepiej.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

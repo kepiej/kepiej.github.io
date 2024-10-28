@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Pieter Jan Kerstens</title>
+    <link>https://kepiej.github.io/project/</link>
+    <description>Recent content in Projects on Pieter Jan Kerstens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016-2024 Pieter Jan Kerstens</copyright>
+    <lastBuildDate>Fri, 17 May 2019 16:30:19 +0200</lastBuildDate>
+    
+	<atom:link href="https://kepiej.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deautils</title>
+      <link>https://kepiej.github.io/project/deautils/</link>
+      <pubDate>Fri, 17 May 2019 16:30:19 +0200</pubDate>
+      
+      <guid>https://kepiej.github.io/project/deautils/</guid>
+      <description>This repository will host various utilities that one may need when doing Data Envelopment Analysis (DEA).</description>
+    </item>
+    
+    <item>
+      <title>matlabutils</title>
+      <link>https://kepiej.github.io/project/matlabutils/</link>
+      <pubDate>Sun, 11 Dec 2016 13:13:10 +0100</pubDate>
+      
+      <guid>https://kepiej.github.io/project/matlabutils/</guid>
+      <description>I keep a repository with useful MATLAB utility functions that intend to make MATLAB programming just that more easy.</description>
+    </item>
+    
+    <item>
+      <title>nepa</title>
+      <link>https://kepiej.github.io/project/nepa/</link>
+      <pubDate>Sun, 11 Dec 2016 11:30:38 +0100</pubDate>
+      
+      <guid>https://kepiej.github.io/project/nepa/</guid>
+      <description>Nonparametric Efficiency and Productivity Analysis for Julia. A toolbox for doing efficiency analysis and computing productivity change using nonparametric techniques.</description>
+    </item>
+    
+    <item>
+      <title>nprlab</title>
+      <link>https://kepiej.github.io/project/nprlab/</link>
+      <pubDate>Sun, 11 Dec 2016 11:11:24 +0100</pubDate>
+      
+      <guid>https://kepiej.github.io/project/nprlab/</guid>
+      <description>NonParametric Regression Laboratory for MATLAB (NPRLab) is a MATLAB toolbox for nonparametric regression. In particular, it implements a variety of linear estimators. Data rescaling and bandwidth tuning is done automatically by the software. Finally, the toolbox also features confidence interval estimation by the volume-of-tube formula both in a one-dimensional and multi-dimensional setting.</description>
+    </item>
+    
+  </channel>
+</rss>

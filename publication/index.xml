@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Pieter Jan Kerstens</title>
+    <link>https://kepiej.github.io/publication/</link>
+    <description>Recent content in Publications on Pieter Jan Kerstens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016-2024 Pieter Jan Kerstens</copyright>
+    <lastBuildDate>Mon, 28 Oct 2024 17:10:03 +0100</lastBuildDate>
+    
+	<atom:link href="https://kepiej.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A DEA-based approach to customer value analysis</title>
+      <link>https://kepiej.github.io/publication/deacva/</link>
+      <pubDate>Mon, 28 Oct 2024 17:10:03 +0100</pubDate>
+      
+      <guid>https://kepiej.github.io/publication/deacva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust nonparametric analysis of dynamic profits, prices and productivity: An application to French meat-processing firms</title>
+      <link>https://kepiej.github.io/publication/dynamicprofitsbennet/</link>
+      <pubDate>Mon, 28 Oct 2024 17:04:43 +0100</pubDate>
+      
+      <guid>https://kepiej.github.io/publication/dynamicprofitsbennet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiency drivers in harvesting operations in mixed Boreal stands: a Norwegian case study</title>
+      <link>https://kepiej.github.io/publication/efficiencyharvesting/</link>
+      <pubDate>Mon, 28 Oct 2024 16:57:02 +0100</pubDate>
+      
+      <guid>https://kepiej.github.io/publication/efficiencyharvesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A superlative indicator for the Luenberger-Hicks-Moorsteen productivity indicator: Theory and application</title>
+      <link>https://kepiej.github.io/publication/superlativelhm/</link>
+      <pubDate>Mon, 28 Oct 2024 16:52:23 +0100</pubDate>
+      
+      <guid>https://kepiej.github.io/publication/superlativelhm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing useful and wasteful slack</title>
+      <link>https://kepiej.github.io/publication/distinguishingslack/</link>
+      <pubDate>Mon, 28 Oct 2024 16:44:56 +0100</pubDate>
+      
+      <guid>https://kepiej.github.io/publication/distinguishingslack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Envelopment Analysis and Social Enterprises: Analysing Performance, Strategic Orientation and Mission Drift</title>
+      <link>https://kepiej.github.io/publication/deasocial/</link>
+      <pubDate>Fri, 16 Nov 2018 10:17:18 +0200</pubDate>
+      
+      <guid>https://kepiej.github.io/publication/deasocial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual welfare analysis for collective households</title>
+      <link>https://kepiej.github.io/publication/sharingrulewelfare/</link>
+      <pubDate>Sun, 16 Sep 2018 10:17:18 +0200</pubDate>
+      
+      <guid>https://kepiej.github.io/publication/sharingrulewelfare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Production with storable and durable inputs: nonparametric analysis of intertemporal efficiency</title>
+      <link>https://kepiej.github.io/publication/durableprod/</link>
+      <pubDate>Sat, 14 Apr 2018 16:50:41 +0200</pubDate>
+      
+      <guid>https://kepiej.github.io/publication/durableprod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond black box modeling in production: methodological advances in nonparametric methods</title>
+      <link>https://kepiej.github.io/publication/phdthesis/</link>
+      <pubDate>Tue, 19 Sep 2017 15:30:00 +0200</pubDate>
+      
+      <guid>https://kepiej.github.io/publication/phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decomposing the Luenberger-Hicks-Moorsteen Total Factor Productivity Indicator: an application to U.S. agriculture</title>
+      <link>https://kepiej.github.io/publication/lhmdecomp/</link>
+      <pubDate>Fri, 09 Dec 2016 09:03:26 +0100</pubDate>
+      
+      <guid>https://kepiej.github.io/publication/lhmdecomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Mix or Specialise? A Coordination Productivity Indicator for English and Welsh farms</title>
+      <link>https://kepiej.github.io/publication/mixedfarms/</link>
+      <pubDate>Fri, 09 Dec 2016 09:03:26 +0100</pubDate>
+      
+      <guid>https://kepiej.github.io/publication/mixedfarms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
